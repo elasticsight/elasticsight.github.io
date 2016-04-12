@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            ElasticSight
 tagline:          'A Jekyll theme'
-description:      'Custom analytics like a breeze.'
+description:      'Custom analytics like a breeze'
 url:              https://elasticsight.github.io
 baseurl:          /
 
